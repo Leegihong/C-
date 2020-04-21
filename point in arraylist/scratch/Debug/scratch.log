@@ -1,0 +1,20 @@
+﻿Build started 2020-04-21 오후 3:53:39.
+     1>Project "C:\Users\dlrlg\documents\visual studio 2010\Projects\scratch\scratch\scratch.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\scratch.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\scratch.unsuccessfulbuild".
+         Touching "Debug\scratch.lastbuildstate".
+     1>Done Building Project "C:\Users\dlrlg\documents\visual studio 2010\Projects\scratch\scratch\scratch.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
